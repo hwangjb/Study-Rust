@@ -57,7 +57,7 @@ fn main() {
     println!("The value of second is: {}", second);
 
     let a = [3; 5]; // [3, 3, 3, 3, 3]
-    println!("The value of a is: {:?}", a);
+    println!("The value of a is: {:?}", a); // The value of a is: [3, 3, 3, 3, 3]
 }
 
 /*
