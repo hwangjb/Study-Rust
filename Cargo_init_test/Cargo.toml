@@ -1,5 +1,5 @@
 [package]
-name = "Cargo_init_test"
+name = "cargo_init_test"
 version = "0.1.0"
 edition = "2021"
 
